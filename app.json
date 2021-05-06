@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "Guess the Number",
-    "slug": "rn-complete-guide",
+    "slug": "guess-the-number",
     "privacy": "public",
     "sdkVersion": "33.0.0",
     "platforms": [
