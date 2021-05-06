@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "Guess the Number",
-    "slug": "guess-the-number",
+    "slug": "guess-the-number-react-native",
     "privacy": "public",
     "sdkVersion": "33.0.0",
     "platforms": [
